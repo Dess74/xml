@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
-  <lastname>Potapovich</lastname>
-  <firstname>Vasya</firstname>
-  <age></age>
+	<lastname>Potapovich</lastname>
+	<firstname>Vasya</firstname>
+	<age></age>
+	<animals>
+		<pets>0</pets>
+	</animals>
+	<work>
+		<salery>500000</salery>
+	</work>
 </person>
-<animals>
-  <pets>0</pets>
-</animals>
-<work>
-  <salery>500000</salery>
-</work>
