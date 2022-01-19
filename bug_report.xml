@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Bug_report>
-	<S1>Steps_to_reproduce</S1>
-	<S2>Actual_result</S2>
-	<S3>Expected_result</S3>
-	<S4>Attachment</S4>
-</Bug_report>
+<Bub_report>
+	<summary>Не добавляется товар в корзину</summary>
+	<Project>web site</Project>
+	<Component>site shopping cart</Component>
+	<Version>1.001</Version>
+	<Severity>Blocker</Severity>
+	<Priority>High</Priority>
+</Bub_report>
